@@ -1,0 +1,4 @@
+# This file generates the build artifact.
+include:
+  - board: seeeduino_xiao_ble
+    shield: xiao_ble_remote
